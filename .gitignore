@@ -1,0 +1,9 @@
+Temp/
+Library/
+*.sln
+*.csproj
+bin/
+*.suo
+*.pdb
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
